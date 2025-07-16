@@ -21,12 +21,16 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></td>
-  </tr>
+  <td><strong>Programming Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  </td>
+</tr>
+
   <tr>
     <td><strong>Data Science & ML</strong></td>
     <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
