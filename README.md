@@ -70,5 +70,6 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/safwan-ahmed-881a77287/))
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](safwanahmed2004@gmail.com)
-[![Website][https://safwanahmed.netlify.app/]]
+[🌐 Website](https://safwanahmed.netlify.app/)
+
 ---
